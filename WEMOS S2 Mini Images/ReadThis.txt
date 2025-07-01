@@ -1,0 +1,1 @@
+This folder only contains firmaware updates for esp32-s2 (wemos s2 mini). Flash the full dump if it's the first time flashing your device as it contains the correct bootloader and partition layout.
