@@ -21,7 +21,7 @@ UPCOMING....
 
 ![Dropdown](https://i.imgur.com/bpzatvr.png)
 
-## Features
+## Done Features
 - File Manager (upload files, folders, create folders)
 - File Editor (edit files straight from your browser on your dongle)
 - Local or OTA firmware updates
@@ -29,3 +29,8 @@ UPCOMING....
 - Configuration page, set wifi, access point, ftp server, GPIO pins for led/button.
 - Information page, shows detailed information about your esp32
 - Main page, use lapse or exfat hax for firmware version 9.0 PS4's
+
+## Currently In Progress
+- Tar dowloader and extract to flash
+- Tweaks to UI
+- Fixes to exfat hax code, lapse code mods.
