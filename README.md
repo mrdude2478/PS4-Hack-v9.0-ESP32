@@ -19,6 +19,8 @@ UPCOMING....
 
 ![Configuration Page](https://i.imgur.com/4nJlz4D.png)
 
+![TAR Installer Page](https://i.imgur.com/2oINUNS.jpeg)
+
 ![Dropdown](https://i.imgur.com/bpzatvr.png)
 
 ## Done Features
@@ -29,8 +31,8 @@ UPCOMING....
 - Configuration page, set wifi, access point, ftp server, GPIO pins for led/button.
 - Information page, shows detailed information about your esp32
 - Main page, use lapse or exfat hax for firmware version 9.0 PS4's
+- Tar dowloader and extract to flash
 
 ## Currently In Progress
-- Tar dowloader and extract to flash
 - Tweaks to UI
 - Fixes to exfat hax code, lapse code mods.
