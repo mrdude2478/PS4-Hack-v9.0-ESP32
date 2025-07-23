@@ -1,7 +1,7 @@
-# PS4-Hack-v9.0-ESP32 - Lolin S2 Mini
+# Online Flasher PS4-Hack-v9.0-ESP32 - Lolin S2 Mini
 https://mrdude2478.github.io/esp32s2/
 
-# PS4-Hack-v9.0-ESP32 - Lolin S3 Pro
+# Online Flasher PS4-Hack-v9.0-ESP32 - Lolin S3 Pro
 https://mrdude2478.github.io/esp32s3/
 <br/>
 <br/>
