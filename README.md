@@ -1,10 +1,27 @@
-# PS4-Hack-v9.0-ESP32
-Dongle files for ESP32 versions - Files will be uploaded soon
+# PS4-Hack-v9.0-ESP32 - Lolin S2 Mini
+Guide, flash from online flasher
+https://mrdude2478.github.io/esp32s2/
 
-Don't download anything for now, i'm writing new software and just using this page for testing stuff out while it's being written, Release stuff and source code will be posted soon (within the next week).
+Once flashed, unplug your dongle and plug it back in again, the blue onboard led will come on.
 
+Connect to computer to wifi SSID "ESP32"
 
-UPCOMING....
+Once connected go to: http://192.168.0.1
+
+Move your mouse over "File Manager", then select "Configure Settings"
+
+Check Use Wifi checkbox and enter the SSID and WIFI password your home WiFi uses.
+
+Click Save & Reboot.
+
+Connect to you home wifi
+
+In your web browser go to: http://esp32.local
+
+Select: "Tar Installer" from the dropdown menu.
+Click "Download & Unpack" button (if download fails,click on "Download to PC", then install via the offline tar installer).
+
+The dongle will reboot - once the blue light comes back on you can go back to the settings page and disable Wifi and then connect your ps4 to the ESP32 wifi network.
 
 
 ![Main Page](https://i.imgur.com/5kyxgYW.png)
@@ -22,17 +39,3 @@ UPCOMING....
 ![TAR Installer Page](https://i.imgur.com/2oINUNS.jpeg)
 
 ![Dropdown](https://i.imgur.com/bpzatvr.png)
-
-## Done Features
-- File Manager (upload files, folders, create folders)
-- File Editor (edit files straight from your browser on your dongle)
-- Local or OTA firmware updates
-- FTP Transfers
-- Configuration page, set wifi, access point, ftp server, GPIO pins for led/button.
-- Information page, shows detailed information about your esp32
-- Main page, use lapse or exfat hax for firmware version 9.0 PS4's
-- Tar dowloader and extract to flash
-
-## Currently In Progress
-- Tweaks to UI
-- Fixes to exfat hax code, lapse code mods.
