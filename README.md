@@ -1,6 +1,10 @@
 # PS4-Hack-v9.0-ESP32 - Lolin S2 Mini
-Guide, flash from online flasher
 https://mrdude2478.github.io/esp32s2/
+
+# PS4-Hack-v9.0-ESP32 - Lolin S3 Pro
+https://mrdude2478.github.io/esp32s3/
+
+# Guide, flash from online flasher
 
 Once flashed, unplug your dongle and plug it back in again, the blue onboard led will come on.
 
