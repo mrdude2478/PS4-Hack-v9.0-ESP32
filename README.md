@@ -23,7 +23,7 @@ Click "Download & Unpack" button (if download fails,click on "Download to PC", t
 
 The dongle will reboot - once the blue light comes back on you can go back to the settings page and disable Wifi and then connect your ps4 to the ESP32 wifi network.
 
-
+# Screenshots (need updated)
 ![Main Page](https://i.imgur.com/5kyxgYW.png)
 
 ![Updates Page](https://i.imgur.com/yNW28WB.png)
