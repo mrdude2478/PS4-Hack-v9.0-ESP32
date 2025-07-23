@@ -5,10 +5,14 @@ https://mrdude2478.github.io/esp32s2/
 https://mrdude2478.github.io/esp32s3/
 <br/>
 <br/>
-LED Settings:
+LED Settings for Lolin S3 Pro
 Set Onboard LED to WS212B
 GPIO 38
 Colour Order 2
+<br/>
+
+Other S3 boards:
+ESP32-S3-WROOM-1 N16R8 Boards, typical WS2182B led is mapped to GPIO pin 48 or 47, use colour order 1
 
 # Guide, flash from online flasher
 
