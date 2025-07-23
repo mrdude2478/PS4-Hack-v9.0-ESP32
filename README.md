@@ -1,4 +1,4 @@
-# Web Flash PS4-Hack-v9.0-ESP32 - Lolin S2 Mini
+# Web Flash PS4-Hack-v9.0-ESP32 - Lolin S2 Mini or ESP32-S2 with 4MB flash and PSRAM
 https://mrdude2478.github.io/esp32s2/
 
 # Web Flash PS4-Hack-v9.0-ESP32 - Lolin S3 Pro/ESP32-S3-WROOM-1 N16R8 Boards
